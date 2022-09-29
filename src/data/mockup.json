@@ -1,0 +1,27 @@
+[
+    {
+        "produto":"Avenida Brasil",
+        "Apostas":[
+            {
+                "id": 1,
+                "tipo": "patrocinada",
+                "titulo":"Com quem tufão toma uma Brahma gelada?"
+            },
+            {
+                "id": 2,
+                "tipo": "normal",
+                "titulo":"Quem será \"congelado\" no final do episódio?"
+            },
+            {
+                "id": 3,
+                "tipo": "normal",
+                "titulo":"Quantas vezes a personagem Carminha fala inferno?"
+            },
+            {
+                "id": 4,
+                "tipo": "normal",
+                "titulo":"Alguma morte no episódio?"
+            }
+        ]
+    }
+]
