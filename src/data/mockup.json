@@ -1,7 +1,8 @@
 [
     {
         "produto":"Avenida Brasil",
-        "Apostas":[
+        "id":1,
+        "apostas":[
             {
                 "id": 1,
                 "tipo": "patrocinada",
