@@ -1,7 +1,8 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 import type { NextApiRequest, NextApiResponse } from "next";
-import { Aposta } from "../../../repositories";
 import { badRequest, ok } from "../../../utils";
+
+import DATA from "../../../data/product.json";
 
 type Data = {
   name: string;
@@ -16,8 +17,7 @@ export default async function handler(
     return badRequest(res);
   }
   try {
-    const data = await Aposta.obtemApostaPorId(1, Number(id));
-    return ok(res, data);
+    return ok(res, DATA);
   } catch (error: any) {
     return badRequest(res, { mensagem: error?.message ?? "Ocorreu um erro." });
   }
