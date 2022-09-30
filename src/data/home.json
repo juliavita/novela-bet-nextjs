@@ -35,8 +35,8 @@
         {
           "id": 4,
           "titulo": "Nina",
-          "votos": 2.3,
-          "percentual": 14,
+          "votos": 1.01,
+          "percentual": 85,
           "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
         }
       ]
@@ -44,12 +44,12 @@
     {
       "id": 2,
       "tipo": "patrocinada",
-      "titulo": "Com quem tufão toma uma Brahma gelada?",
+      "titulo": "Quem será \"congelado\" no final do episódio?",
       "opcoes": [
         {
           "id": 1,
           "titulo": "Leleco",
-          "votos": 1.55,
+          "votos": 3.2,
           "percentual": 55,
           "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
         },
@@ -63,8 +63,8 @@
         {
           "id": 3,
           "titulo": "Carminha",
-          "votos": 1.02,
-          "percentual": 20,
+          "votos": 1.72,
+          "percentual": 30,
           "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
         },
         {

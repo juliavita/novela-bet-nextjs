@@ -12,6 +12,9 @@ export function Menu() {
       <Button colorScheme="white" variant="link">
         Premiações
       </Button>
+      <Button colorScheme="white" variant="link" as="a" href="/apostas/1">
+        Apostas
+      </Button>
     </Stack>
   );
 }
