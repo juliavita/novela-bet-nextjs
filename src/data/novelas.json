@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "capa": "https://innovathon.s3.amazonaws.com/novela-bet/01.png"
+  },
+
+  {
+    "id": 2,
+    "capa": "https://innovathon.s3.amazonaws.com/novela-bet/02.png"
+  },
+  {
+    "id": 3,
+    "capa": "https://innovathon.s3.amazonaws.com/novela-bet/03.png"
+  },
+  {
+    "id": 4,
+    "capa": "https://innovathon.s3.amazonaws.com/novela-bet/04.png"
+  },
+  {
+    "id": 5,
+    "capa": "https://innovathon.s3.amazonaws.com/novela-bet/05.png"
+  }
+]

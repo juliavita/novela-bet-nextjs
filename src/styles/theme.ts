@@ -3,7 +3,7 @@ export const theme = extendTheme({
   styles: {
     colors: {},
     global: {
-      body: { bg: "gray.900" },
+      body: { bg: "black" },
     },
   },
 });

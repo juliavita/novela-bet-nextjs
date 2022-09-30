@@ -1,28 +1,133 @@
 [
-    {
-        "produto":"Avenida Brasil",
-        "id":1,
-        "apostas":[
-            {
-                "id": 1,
-                "tipo": "patrocinada",
-                "titulo":"Com quem tufão toma uma Brahma gelada?"
-            },
-            {
-                "id": 2,
-                "tipo": "normal",
-                "titulo":"Quem será \"congelado\" no final do episódio?"
-            },
-            {
-                "id": 3,
-                "tipo": "normal",
-                "titulo":"Quantas vezes a personagem Carminha fala inferno?"
-            },
-            {
-                "id": 4,
-                "tipo": "normal",
-                "titulo":"Alguma morte no episódio?"
-            }
+  {
+    "produto": "Avenida Brasil",
+    "id": 1,
+    "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/header.png",
+    "apostas": [
+      {
+        "id": 1,
+        "tipo": "patrocinada",
+        "titulo": "Com quem tufão toma uma Brahma gelada?",
+        "opcoes": [
+          {
+            "id": 1,
+            "titulo": "Leleco",
+            "stats": 1.55,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
+          },
+          {
+            "id": 2,
+            "titulo": "Max",
+            "stats": 1.25,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char2.png"
+          },
+          {
+            "id": 3,
+            "titulo": "Carminha",
+            "stats": 1.02,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
+          },
+          {
+            "id": 4,
+            "titulo": "Nina",
+            "stats": 2.3,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
+          }
         ]
-    }
+      },
+      {
+        "id": 2,
+        "tipo": "normal",
+        "titulo": "Quem será \"congelado\" no final do episódio?",
+        "opcoes": [
+          {
+            "id": 1,
+            "titulo": "Leleco",
+            "stats": 1.55,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
+          },
+          {
+            "id": 2,
+            "titulo": "Max",
+            "stats": 1.25,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char2.png"
+          },
+          {
+            "id": 3,
+            "titulo": "Carminha",
+            "stats": 1.02,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
+          },
+          {
+            "id": 4,
+            "titulo": "Nina",
+            "stats": 2.3,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo": "normal",
+        "titulo": "Quantas vezes a personagem Carminha fala inferno?",
+        "opcoes": [
+          {
+            "id": 1,
+            "titulo": "Leleco",
+            "stats": 1.55,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
+          },
+          {
+            "id": 2,
+            "titulo": "Max",
+            "stats": 1.25,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char2.png"
+          },
+          {
+            "id": 3,
+            "titulo": "Carminha",
+            "stats": 1.02,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
+          },
+          {
+            "id": 4,
+            "titulo": "Nina",
+            "stats": 2.3,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo": "normal",
+        "titulo": "Alguma morte no episódio?",
+        "opcoes": [
+          {
+            "id": 1,
+            "titulo": "Leleco",
+            "stats": 1.55,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
+          },
+          {
+            "id": 2,
+            "titulo": "Max",
+            "stats": 1.25,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char2.png"
+          },
+          {
+            "id": 3,
+            "titulo": "Carminha",
+            "stats": 1.02,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
+          },
+          {
+            "id": 4,
+            "titulo": "Nina",
+            "stats": 2.3,
+            "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
+          }
+        ]
+      }
+    ]
+  }
 ]

@@ -1,0 +1,104 @@
+{
+  "destaque": {
+    "produto": "Avenida Brasil",
+    "id": 1,
+    "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/header.png"
+  },
+
+  "apostas": [
+    {
+      "id": 1,
+      "tipo": "normal",
+      "titulo": "Com quem tufão toma uma Brahma gelada?",
+      "opcoes": [
+        {
+          "id": 1,
+          "titulo": "Leleco",
+          "votos": 1.55,
+          "percentual": 55,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Max",
+          "votos": 1.25,
+          "percentual": 70,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char2.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Carminha",
+          "votos": 1.02,
+          "percentual": 20,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
+        },
+        {
+          "id": 4,
+          "titulo": "Nina",
+          "votos": 2.3,
+          "percentual": 14,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tipo": "patrocinada",
+      "titulo": "Com quem tufão toma uma Brahma gelada?",
+      "opcoes": [
+        {
+          "id": 1,
+          "titulo": "Leleco",
+          "votos": 1.55,
+          "percentual": 55,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char4.png"
+        },
+        {
+          "id": 2,
+          "titulo": "Max",
+          "votos": 1.25,
+          "percentual": 70,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char2.png"
+        },
+        {
+          "id": 3,
+          "titulo": "Carminha",
+          "votos": 1.02,
+          "percentual": 20,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char1.png"
+        },
+        {
+          "id": 4,
+          "titulo": "Nina",
+          "votos": 2.3,
+          "percentual": 14,
+          "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/char3.png"
+        }
+      ]
+    }
+  ],
+
+  "produtos": [
+    {
+      "id": 1,
+      "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/01.png"
+    },
+
+    {
+      "id": 2,
+      "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/02.png"
+    },
+    {
+      "id": 3,
+      "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/03.png"
+    },
+    {
+      "id": 4,
+      "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/04.png"
+    },
+    {
+      "id": 5,
+      "image_url": "https://innovathon.s3.amazonaws.com/novela-bet/05.png"
+    }
+  ]
+}

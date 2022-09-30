@@ -1,11 +1,11 @@
-import { Avatar, Box, Flex } from "@chakra-ui/react";
+import { Avatar } from "@chakra-ui/react";
 
 export function Profile() {
   return (
-    <Flex>
-      <Box>
-        <Avatar name="Rodrigo Menchio" src="https://github.com/rmenchio.png" />
-      </Box>
-    </Flex>
+    <Avatar
+      size="lg"
+      name="Rodrigo Menchio"
+      src="https://github.com/rmenchio.png"
+    />
   );
 }
